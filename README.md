@@ -1,10 +1,13 @@
 # Simple ReactJS Template with Material UI
 
-One page project web site for React JS
+It's a simple website for React JS, with Material UI ! 😃
 
 ![Simple ReactJS Template with Material UI](https://raw.githubusercontent.com/sancode86/Simple-React-Template-UI/master/public/img/simple.png)
 
 Made for developers/makers who want to create a quick and simple landing page for their projects, SaaS products, online services, and more.
+
+There are a lot of improvements you can do to this "template"! 
+I just wanted a basic skeleton for any standard project.
 
 Created with ❤️ & ☕
 
